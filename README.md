@@ -1,1 +1,2 @@
 # scm
+i love scm
